@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Here is some bug fixes
 public class StudentSearch {
     public boolean studentExists (ArrayList<Student> students, String id) throws Exception {
         if (students.isEmpty()) {
